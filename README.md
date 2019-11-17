@@ -1,5 +1,7 @@
 # mapboxTest
 Тестирование mapboxGL
 
-https://originalsin.github.io/mapboxTest/dist/index.html
-https://originalsin.github.io/mapboxTest/dist/indexAddSource.html
+Demos
+------
+  * [fields](//originalsin.github.io/mapboxTest/dist/index.html) - в лоб по примеру https://docs.mapbox.com/mapbox-gl-js/example/geojson-polygon/.
+  * [fields](//originalsin.github.io/mapboxTest/dist/indexAddSource.html) - через addSource.
